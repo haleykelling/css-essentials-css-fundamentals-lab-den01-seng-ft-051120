@@ -13,7 +13,11 @@ header{
 }
 
 #featured-property figcaption {
-  font-size: 12px
+  font-size: 12px;
+}
+
+#featured-property p {
+  width: 800px;
 }
 
 nav a {
