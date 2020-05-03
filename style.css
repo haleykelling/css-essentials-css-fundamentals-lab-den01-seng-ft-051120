@@ -30,3 +30,12 @@ nav a {
   text-align: center;
   width: 800px;
 }
+
+#details {
+  display: block;
+  background-color: red;
+}
+
+#details < div {
+  float:left;
+}
