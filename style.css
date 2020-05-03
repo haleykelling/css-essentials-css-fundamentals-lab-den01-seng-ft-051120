@@ -2,11 +2,16 @@ body {
   width: 100%;
   height: 100%;
   margin: 0;
-  text-align: center;
 }
 
 header{
   text-align: center;
+}
+
+nav a {
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: yellow
 }
 
 #featured-property figure {
@@ -23,8 +28,3 @@ header{
   text-align: center;
 }
 
-nav a {
-  padding-left: 10px;
-  padding-right: 10px;
-  background-color: yellow
-}
